@@ -1,0 +1,23 @@
+{
+  "asset": "toybox-x86_64",
+  "origin": "https://landley.net/toybox/downloads/binaries/0.8.15/toybox-x86_64",
+  "origin_last_modified": "Mon, 05 Oct 2026 17:47:55 GMT",
+  "size": 777976,
+  "sha256": "38e03ffd8aead8ca26833e1e5c90a9ea7250f3719c29d779ebff7aa55c9d2dac",
+  "upstream_sha256": "https://lists.landley.net/pipermail/toybox/2026-October/010015.html",
+  "nar_hash": "sha256-viXu2rPA0Y9fxnS4FPikMRFHg5IgV7tnoxPk4cN2QpU=",
+  "source_tag": "0.8.15",
+  "source_commit": "a57b091d05ec366dcd4dd737784c03761cb6a4b1",
+  "witnesses": [
+    {
+      "host": "sting",
+      "date": "2026-11-05"
+    },
+    {
+      "host": "neo",
+      "date": "2026-11-06T04:28Z",
+      "note": "same public IP as sting"
+    }
+  ],
+  "ruling": "R675 (TIN-5447 c8b3821c)"
+}
